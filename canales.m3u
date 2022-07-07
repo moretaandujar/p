@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/antena.png" group-title="DOMINICANO", ANTENA 7- RD
 http://190.83.119.67:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/digitales/cdn.png" group-title="DOMINICANO", CDN37 - RD
+http://190.83.119.67:8000/play/a0s1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/cdnsportmax.png" group-title="DOMINICANO", CDN SPORT MAX- RD
 http://190.83.119.67:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/colorvision.png" group-title="DOMINICANO", COLOR VISION 9 - RD
