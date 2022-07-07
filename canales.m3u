@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tl.png" group-title="LATINO", Cine Latino
-http://190.83.119.67:8000/play/a0tl/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p2.png" group-title="DOMINICANO", ANTENA 7- RD
+http://190.83.119.67:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qu.png" group-title="DOMINICANO", TELECENTRO - RD
 http://190.83.119.67:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png" group-title="DOMINICANO", TELEMICRO - RD
