@@ -29,7 +29,7 @@ http://tv.cablelatino.xyz/live/ABRIL_02/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es" group-title="KIDS", Disney Jr
 http://tv.cablelatino.xyz/live/ABRIL_02/DISNEY_JR/index.m3u8
 
-*ENTRETENIMIENTO*
+ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="ENTRETENIMIENTO", Star Channel
 http://bgapp.live/play/futvall-700.php?id=starch&token=blackgggghost&dos=.m3u8
