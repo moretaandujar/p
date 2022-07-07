@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p2.png" group-title="DOMINICANO", ANTENA 7- RD
 http://190.83.119.67:8000/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s0.png" group-title="PRV", COLOR VISION 9 - RD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s0.png" group-title="DOMINICANO", COLOR VISION 9 - RD
 http://190.83.119.67:8000/play/a0s0/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qu.png" group-title="DOMINICANO", TELECENTRO 13 - RD
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telecentro.png" group-title="DOMINICANO", TELECENTRO 13 - RD
 http://190.83.119.67:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png" group-title="DOMINICANO", TELEMICRO 5 - RD
 http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qr.png" group-title="PRV", TELEUNIVERSO 29 - RD
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/teleuniverso.png" group-title="DOMINICANO", TELEUNIVERSO 29 - RD
 http://190.83.119.67:8000/play/a0qr/index.m3u8
