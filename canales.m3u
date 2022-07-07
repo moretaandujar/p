@@ -22,7 +22,4 @@ http://190.83.119.67:8000/play/a0rz/index.m3u8
 http://190.83.119.67:8000/play/a0qr/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="LATINO", STAR Channel
 http://bgapp.live/play/futvall-700.php?id=starch&token=blackgggghost&dos=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="LATINO", Cartoon Network
-http://tv.cablelatino.xyz/live/ABRIL_02/CARTOON/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LATINO", Boomerang
-http://bgapp.live/play/ultima-700.php?tokeen=blackgggghost&c=176&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="KIDS",Cartoon Network
