@@ -14,7 +14,7 @@ http://190.83.119.67:8000/play/a0s0/index.m3u8
 http://190.83.119.67:8000/play/a0p1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telecentro.png" group-title="DOMINICANO", TELECENTRO 13 - RD
 http://190.83.119.67:8000/play/a0qu/index.m3u8
-#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telesistema.png" group-title="DOMINICANO", TELESISEMA - RD
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telesistema.png" group-title="DOMINICANO", TELESISTEMA - RD
 http://190.83.119.67:8000/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telemicro.png" group-title="DOMINICANO", TELEMICRO 5 - RD
 http://190.83.119.67:8000/play/a0rz/index.m3u8
