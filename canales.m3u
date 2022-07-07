@@ -23,6 +23,6 @@ http://190.83.119.67:8000/play/a0qr/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="LATINO", STAR Channel
 http://bgapp.live/play/futvall-700.php?id=starch&token=blackgggghost&dos=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="KIDS", Cartoon Network
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/2560px-2010_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+http://tv.cablelatino.xyz/live/ABRIL_02/CARTOON/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2014/05/antiguo-disney-channel-e1401284572857.png" group-title="KIDS", Disney Channel
+http://tv.cablelatino.xyz/live/ABRIL_02/DISNEY/index.m3u8
