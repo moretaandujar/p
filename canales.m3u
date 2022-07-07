@@ -1,0 +1,6 @@
+Canales de TV
+
+#EXTM3U
+
+#EXTINF:-1, TeleMicro - RD, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png" group-title="PRV",
+http://190.83.119.67:8000/play/a0rz/index.m3u8
