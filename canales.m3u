@@ -20,3 +20,5 @@ http://190.83.119.67:8000/play/a0p3/index.m3u8
 http://190.83.119.67:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/teleuniverso.png" group-title="DOMINICANO", TELEUNIVERSO 29 - RD
 http://190.83.119.67:8000/play/a0qr/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="LATINO", STAR Channel
+http://bgapp.live/play/futvall-700.php?id=starch&token=blackgggghost&dos=.m3u8
