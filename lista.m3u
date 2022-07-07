@@ -7,8 +7,7 @@ http://190.83.119.67:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/digitales/cdn.png" group-title="DOMINICANOS", CDN37 - RD
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/colorvision.png" group-title="DOMINICANOS", COLOR VISION 9 - RD
 http://190.83.119.67:8000/play/a0s0/index.m3u8
-http://190.83.119.67:8000/play/a0s1/index.m3u8
-#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telemicro.png" group-title="DOMINICANOS", Digital 15 - RD
+#EXTINF:-1 tvg-chno="15" tvg-name="Digital 15" tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telemicro.png" group-title="DOMINICANOS", Digital 15
 http://190.83.119.67:8000/play/a0qp/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p1.png" group-title="DOMINICANOS", TELEANTILLAS 2 - RD
 http://190.83.119.67:8000/play/a0p1/index.m3u8
