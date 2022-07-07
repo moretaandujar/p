@@ -24,5 +24,5 @@ http://190.83.119.67:8000/play/a0qr/index.m3u8
 http://bgapp.live/play/futvall-700.php?id=starch&token=blackgggghost&dos=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="KIDS", Cartoon Network
 http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Disney_Channel_2002_alt.png/revision/latest?cb=20200209220242&path-prefix=es" group-title="KIDS", DISNEY CHANNEL
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1780.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/2560px-2010_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
