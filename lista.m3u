@@ -29,5 +29,5 @@ http://tv.cablelatino.xyz/live/ABRIL_01/STAR/index.m3u8
 http://tv.cableatino.xyz/live/ABRIL_01/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENTRETENIMIENTO", Warner
 http://tv.cablelatino.xyz/live/ABRIL_01/WARNER/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvinfo.in/wp-content/uploads/2021/01/axn.png" group-title="Entretenimiento", AXN [Club]
+#EXTINF:-1 tvg-logo="https://tvinfo.in/wp-content/uploads/2021/01/axn.png" group-title="ENTRETENIMIENTO", AXN [Club]
 http://tv.cablelatino.xyz/live/ABRIL_01/AXN/index.m3u8
