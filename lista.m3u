@@ -24,10 +24,28 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 http://190.83.119.67:8000/play/a0s1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="ENTRETENIMIENTO", Star Channel
-http://tv.cablelatino.xyz/live/ABRIL_01/STAR/index.m3u8
+http://bgapp.live/play/tvhd-700.php?id=42&k=blackghoooossst&fiile=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="ENTRETENIMIENTO", Star Channel HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO", Universal
-http://tv.cableatino.xyz/live/ABRIL_01/UNIVERSAL/index.m3u8
+http://bgapp.live/play/tvhd-700.php?id=79&k=blackghoooossst&fiile=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENTRETENIMIENTO", Warner
-http://tv.cablelatino.xyz/live/ABRIL_01/WARNER/index.m3u8
+http://bgapp.live/play/ultima-700.php?tokeen=blackgggghost&c=99&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENTRETENIMIENTO", Warner HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvinfo.in/wp-content/uploads/2021/01/axn.png" group-title="ENTRETENIMIENTO", AXN
-http://tv.cablelatino.xyz/live/ABRIL_01/AXN/index.m3u8
+http://bgapp.live/play/ultima-700.php?tokeen=blackgggghost&c=2&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/141-1417598_launch-of-paramount-channel-in-italy-paramount-channel.png" group-title="ENTRETENIMIENTO", Paramount
+http://190.83.119.67:8000/play/a0ol/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/141-1417598_launch-of-paramount-channel-in-italy-paramount-channel.png" group-title="ENTRETENIMIENTO", Paramount HD
+http://190.83.119.67:8000/play/a0t9/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO", Studio Universal
+http://bgapp.live/play/tvhd-700.php?id=80&k=blackghoooossst&fiile=.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO", Studio Universal HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="ENTRETENIMIENTO", FX
+http://190.83.119.67:8000/play/a0r4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="ENTRETENIMIENTO", FX HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="ENTRETENIMIENTO", HBO
+http://tv.cablelatino.xyz/live/ABRIL_01/HBO/index.m3u8
