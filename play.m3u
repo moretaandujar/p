@@ -14,7 +14,21 @@ https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
 https://stream-02.ix7.dailymotion.com/sec(O-7bth6lxCIslucX64-RY5ybxqEjjUykUUWoUCvzozozJVybiKyUbjbErXOQic5Y)/dm/3/x7gy059/d/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cdn-canal-37-en-vivo-online.png" group-title="DOMINICANOS", CDN 37
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1653354390&e=1653354510&h=0c1a5bd8758448e14bf48f30d25691f6
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="DOMINICANOS", CERTV 4RD
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="DOMINICANOS", CERTV 4RD
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="DOMINICANOS", CERTV 4RD
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="DOMINICANOS", CERTV 4RD
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg" group-title="DOMINICANOS", Teleuniverso 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" group-title="DOMINICANOS", Telefuturo 23
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2116785128.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/microvision-en-vivo-canal-10-online.jpg" group-title="DOMINICANOS", Microvisión 10
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg" group-title="DOMINICANOS", Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w849144797.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg" group-title="DOMINICANOS", Luna TV 53
+https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w446040124.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/cdn-deportes-online-cdn-sportmax-en-vivo.jpg" group-title="DOMINICANOS", CDN Deportes 67
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg" group-title="DOMINICANOS", RNN 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
+#EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
+#EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
+#EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
