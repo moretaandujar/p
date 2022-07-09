@@ -9,5 +9,5 @@ https://playback.akamaized.net/streams/27456795_8268514_lsickf2cyhkwe06c6to_1/me
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="DOMINICANOS", CERTV 4RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w2096271509_b2146304.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="DOMINICANOS", Antena 7
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w2096271509_b2146304.m3u8
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="DOMINICANOS", CERTV 4RD
