@@ -35,3 +35,5 @@ https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL", Disney Channel
+http://tv.cablelatino.xyz/live/ABRIL_01/DISNEY/index.m3u8
