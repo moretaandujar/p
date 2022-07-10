@@ -28,7 +28,8 @@ https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w446040124.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg" group-title="DOMINICANOS", RNN 27
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
+#EXTINF:-1 tvg-logo="https://tv10sanjuan.com.do/wp-content/uploads/2020/09/LOGO-TV10-unico-1.png" group-title="DOMINICANOS", San Juan 10
+https://5790d294af2dc.streamlock.net/8224/8224/chunklist_w1980656033.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
 #EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
 #EXTINF:-1 tvg-logo="" group-title="DOMINICANOS", CERTV 4RD
