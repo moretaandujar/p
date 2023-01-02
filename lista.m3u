@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
+CANALES DOMINICANOS
+
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/antena.png" group-title="DOMINICANOS", ANTENA 7
 http://190.83.119.67:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/cdnsportmax.png" group-title="DOMINICANOS", CDN SPORT MAX
