@@ -1,0 +1,34 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+LOCALES --->
+
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/antena.png" group-title="LOCALES", ANTENA 7
+http://190.83.119.67:8000/play/a0p2/index.m3u8
+
+<--- LOCALES --->
+
+CANALES DOMINICANOS --->
+
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/antena.png" group-title="DOMINICANOS", ANTENA 7
+http://190.83.119.67:8000/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/cdnsportmax.png" group-title="DOMINICANOS", CDN SPORT MAX
+http://190.83.119.67:8000/play/a0qq/index.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/colorvision.png" group-title="DOMINICANOS", COLOR VISION 9
+http://190.83.119.67:8000/play/a0s0/index.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-name="Digital 15" tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telemicro.png" group-title="DOMINICANOS", Digital 15
+http://190.83.119.67:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p1.png" group-title="DOMINICANOS", TELEANTILLAS 2
+http://190.83.119.67:8000/play/a0p1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telecentro.png" group-title="DOMINICANOS", TELECENTRO 13
+http://190.83.119.67:8000/play/a0qu/index.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telemicro.png" group-title="DOMINICANOS", TELEMICRO 5
+http://190.83.119.67:8000/play/a0rz/index.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/telesistema.png" group-title="DOMINICANOS", TELESISTEMA 11
+http://190.83.119.67:8000/play/a0p3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/canales/teleuniverso.png" group-title="DOMINICANOS", TELEUNIVERSO 29
+http://190.83.119.67:8000/play/a0qr/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PShpLemy7ozPAio3xJ36eCZffD5P9vnGWRfvK8JIy_VxwMl04PMZM8ejw6U3KbK5tg" group-title="DOMINICANOS", Zol 106.5 FM
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dominicana.do/wp-content/themes/a/img/logos/digitales/cdn.png" group-title="DOMINICANOS", CDN 37
+http://190.83.119.67:8000/play/a0s1/index.m3u8
+
+<--- CANALES DOMINICANOS --->
